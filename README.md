@@ -90,9 +90,8 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## 7. Analysis of the Collapse Scene (May 17, 2017)
 
-*   **The Instrumental Use of the Drug:** The Lorazepam level in his blood (200 ng/mL) was below the lethal threshold (300 ng/mL) but four times above the therapeutic level. Given his body mass and tolerance, this dose did not induce confusion; it functioned as a panic suppressor, allowing the subject to maintain the lucidity necessary to execute the SASPTE.
+*   **The Instrumental Use of the Drug:** The Lorazepam level in his blood was 200 ng/mL. This is below the lethal threshold (300 ng/mL) but four times above the standard therapeutic range (50 ng/mL). Given his body mass and prior tolerance, this specific dose did not induce confusion; it functioned as a panic suppressor, allowing the subject to maintain the executive cognition necessary to execute the SASPTE. He used the drug not to overdose, but to achieve the precision required for the mechanism.
 *   **The Triggering Call (Kappa):** The telephone communication with the second wife, characterized by interrogation and behavioral control, acted as the direct collision load vector that exceeded the material's resistance.
-
 ---
 
 ## 8. Conclusion and Technical Verdict
