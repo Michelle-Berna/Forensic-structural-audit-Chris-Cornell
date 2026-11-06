@@ -54,7 +54,11 @@ This section constitutes the material evidence that categorically refutes the hy
 
 ## 4. Semiotic Evidence: The Force Diagram in the Tattoo
 
-The tattoo located on the subject's right arm is not a decorative element. Its rough and un-stylized execution is characteristic of prison tattoos, reflecting an environment of psychological coercion. The design constitutes a **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
+To understand the structural tension the subject was under, we must look at the map he decided to engrave on his own skin. The following image shows the tattoo located on his right arm:
+
+![Tattoo Force Diagram](Tatuaje_CC.jpeg)
+
+As observed, this is not a decorative element. Its rough and un-stylized execution is characteristic of prison tattoos, reflecting an environment of psychological coercion. The design constitutes a **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
 
 *   **The Crown (Top):** Represents the restrictive vertical load. The constant and relentless pressure (the environment, the marital restriction).
 *   **The Diamond (Center):** The inorganic core. Highly compressed carbon; it represents the subject resisting tension without breaking.
@@ -63,7 +67,6 @@ The tattoo located on the subject's right arm is not a decorative element. Its r
 *   **The Lower Ribbon (ΓΙΑ ΠΑΝΤΑ - "Forever"):** The temporal axis. It indicates that this force structure is not a passing event, but a sentence of material fatigue sustained over time.
 
 **Technical Interpretation:** The tattoo was the equation of the subject's resistance. By crossing the vertical load (Crown), the damping capacity (Γ), and the destructive load (K) on an inorganic core, the result is the **exact calculation of the time** it would take for the system to collapse.
-
 ---
 
 ## 5. Timeline of Systemic Failure and Trajectory Analysis
