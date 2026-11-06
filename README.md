@@ -49,6 +49,7 @@ This section constitutes the material evidence that categorically refutes the hy
     **An individual in a state of psychosis, acute confusion, or experiencing a benzodiazepine break is clinically incapable of executing a problem-solving and force-calculation sequence of this complexity.**
     
 *   **Partial Suspension Mechanics and Posture:** The anchor height and forensic evidence indicate that the subject placed himself in a **kneeling position**. The minimal biological trace confirms there was no struggle or panic; there was a gradual and controlled application of pressure. This specific posture implies a conscious act of surrender and redemption. He did not jump; he knelt and let himself go.
+
 ---
 
 ## 4. Semiotic Evidence: The Force Diagram in the Tattoo
@@ -66,6 +67,7 @@ As observed, this is not a decorative element. Its rough and un-stylized executi
 *   **The Lower Ribbon (ΓΙΑ ΠΑΝΤΑ - "Forever"):** The temporal axis. It indicates that this force structure is not a passing event, but a sentence of material fatigue sustained over time.
 
 **Technical Interpretation:** The tattoo was the equation of the subject's resistance. By crossing the vertical load (Crown), the damping capacity (Γ), and the destructive load (K) on an inorganic core, the result is the **exact calculation of the time** it would take for the system to collapse.
+
 ---
 
 ## 5. Timeline of Systemic Failure and Trajectory Analysis
@@ -76,6 +78,7 @@ To understand the evolution of the system, it is essential to differentiate the 
 *   **Phase 2: Introduction of Restriction (2003-2006):** The variable of the second marriage and rushed parenthood is introduced. Exit from rehabilitation. The system suffers an overload; the sentiment graph (based on audiovisual works) drops to its lowest point (-0.6) in 2006, reflecting the asphyxiation at the very moment of artistic creation.
 *   **Phase 3: Temporary Damping (2007-2013):** The subject increases the amplitude of Γ (Gamma) through the acoustic tour, the Chile concert (2007), and the reunion of his original band. This stretches the system's life cycle but does not repair the core.
 *   **Phase 4: Fatigue Projection (2015):** The last data point from the audiovisual works (2015, approx. -0.45) shows that, although the trend is positive compared to the 2006 minimum, the subject presented an improvement whose derivative (rate of change) did not reach the acceleration necessary for a return to pre-2002 levels (neutral line 0.0). The vertical pressure and tour stress in 2017 exhausted the remaining damping capacity, bringing the "clock" to zero.
+
 ---
 
 ## 6. Behavioral Analysis: The Anomaly of Family Memory
@@ -84,12 +87,14 @@ To understand the evolution of the system, it is essential to differentiate the 
 *   **Analysis of the Protection Variable:** The absence of this type of public memory can be interpreted as a protection mechanism by the subject (keeping minors out of scrutiny) or as evidence that the domestic environment did not generate positive interaction dynamics, but rather tension and isolation.
 *   **Contrast with Peers and Friends (Primary Circle):** In stark contrast, figures from his primary circle—including his eldest daughter, his bandmates (such as Eddie Vedder, Kim Thayil, Matt Cameron, and Tom Morello), and close friends—have extensively documented personal anecdotes, outings, and playful dynamics. These accounts describe a man with a sharp sense of humor, a deep capacity for empathy, and a generous spirit. This evidences that the subject was biologically, emotionally, and behaviorally capable of generating and sustaining everyday emotional bonds.
 *   **Conclusion of the Anomaly:** The memory anomaly, therefore, is not a failure of the subject's personality. It is a characteristic of the **specific systemic environment** (the second marriage). The lack of joyful memories from this specific period suggests that the environment functioned as a constraint, suppressing his natural ability to connect and generate shared happiness.
+
 ---
 
 ## 7. Analysis of the Collapse Scene (May 17, 2017)
 
 *   **The Instrumental Use of the Drug:** The Lorazepam level in his blood was 200 ng/mL. This is below the lethal threshold (300 ng/mL) but four times above the standard therapeutic range (50 ng/mL). Given his body mass and prior tolerance, this specific dose did not induce confusion; it functioned as a panic suppressor, allowing the subject to maintain the executive cognition necessary to execute the SASPTE. He used the drug not to overdose, but to achieve the precision required for the mechanism.
 *   **The Triggering Call (Kappa):** The telephone communication with the second wife, characterized by interrogation and behavioral control, acted as the direct collision load vector that exceeded the material's resistance.
+
 ---
 
 ## 8. Conclusion and Technical Verdict
@@ -103,7 +108,7 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## Appendix A: Sentiment Trajectory Graph
 
-![Sentiment Trajectory](Análisis_Sentimientos_Obras_Audiovisuales_CC.png)
+![Sentiment Trajectory](Analisis_Sentimientos_Obras_Audiovisuales_CC.png)
 
 *Empirical evidence of the emotional materials' fatigue.*
 
