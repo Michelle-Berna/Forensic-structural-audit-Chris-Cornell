@@ -55,7 +55,7 @@ This section constitutes the material evidence that categorically refutes the hy
 
 To understand the structural tension the subject was under, we must look at the map he decided to engrave on his own skin. The following image shows the tattoo located on his right arm:
 
-![Tattoo Force Diagram](Tatuaje_CC.jpeg)
+<img src="Tatuaje_CC.jpeg" alt="Tattoo Force Diagram" width="400"/>
 
 As observed, this is not a decorative element. Its rough and un-stylized execution is characteristic of prison tattoos, reflecting an environment of psychological coercion. The design constitutes a **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
 
@@ -81,10 +81,10 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## 6. Behavioral Analysis: The Anomaly of Family Memory
 
-*   **Absence of Daily Records:** More than six years after his death, there are no accounts, interviews, or publications by the secondary family nucleus (second wife and younger children) documenting everyday anecdotes, routines, jokes, or domestic dynamics shared with the subject.
+*   **Absence of Daily Records (Secondary Nucleus):** More than six years after his death, there are no accounts, interviews, or publications by the secondary family nucleus (second wife and younger children) documenting everyday anecdotes, routines, jokes, or domestic dynamics shared with the subject. 
 *   **Analysis of the Protection Variable:** The absence of this type of public memory can be interpreted as a protection mechanism by the subject (keeping minors out of scrutiny) or as evidence that the domestic environment did not generate positive interaction dynamics, but rather tension and isolation.
-*   **Statistical Contrast (The Eldest Daughter):** Figures from his primary circle, specifically his eldest daughter and his musical peers, have extensively documented personal anecdotes, outings, and playful dynamics. This evidences that the subject was biologically and behaviorally capable of generating and sustaining everyday emotional bonds. The memory anomaly, therefore, is not a failure of the subject, but a characteristic of the **specific systemic environment** (the second marriage).
-
+*   **Contrast with Peers and Friends (Primary Circle):** In stark contrast, figures from his primary circle—including his eldest daughter, his bandmates (such as Kim Thayil, Matt Cameron, and Tom Morello), and close friends—have extensively documented personal anecdotes, outings, and playful dynamics. These accounts describe a man with a sharp sense of humor, a deep capacity for empathy, and a generous spirit. This evidences that the subject was biologically, emotionally, and behaviorally capable of generating and sustaining everyday emotional bonds.
+*   **Conclusion of the Anomaly:** The memory anomaly, therefore, is not a failure of the subject's personality. It is a characteristic of the **specific systemic environment** (the second marriage). The lack of joyful memories from this specific period suggests that the environment functioned as a constraint, suppressing his natural ability to connect and generate shared happiness.
 ---
 
 ## 7. Analysis of the Collapse Scene (May 17, 2017)
