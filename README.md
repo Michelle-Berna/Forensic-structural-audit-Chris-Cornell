@@ -48,8 +48,7 @@ This section constitutes the material evidence that categorically refutes the hy
     
     **An individual in a state of psychosis, acute confusion, or experiencing a benzodiazepine break is clinically incapable of executing a problem-solving and force-calculation sequence of this complexity.**
     
-*   **Partial Suspension Mechanics:** The anchor height and forensic evidence indicate that the subject placed himself in a kneeling position. The minimal biological trace confirms there was no struggle or panic; there was a gradual and controlled application of pressure. This demonstrates that the subject maintained voluntary control until physiological collapse.
-
+*   **Partial Suspension Mechanics and Posture:** The anchor height and forensic evidence indicate that the subject placed himself in a **kneeling position**. The minimal biological trace confirms there was no struggle or panic; there was a gradual and controlled application of pressure. This specific posture implies a conscious act of surrender and redemption. He did not jump; he knelt and let himself go.
 ---
 
 ## 4. Semiotic Evidence: The Force Diagram in the Tattoo
