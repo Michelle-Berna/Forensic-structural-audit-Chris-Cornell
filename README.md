@@ -103,7 +103,7 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## Appendix A: Sentiment Trajectory Graph
 
-![Sentiment Trajectory](images/Análisis_Sentimientos_Obras_Audiovisuales_CC.png)
+Análisis_Sentimientos_Obras_Audiovisuales_CC.png)
 
 *Empirical evidence of the emotional materials' fatigue.*
 
