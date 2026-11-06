@@ -56,7 +56,7 @@ This section constitutes the material evidence that categorically refutes the hy
 
 To understand the structural tension the subject was under, we must look at the map he decided to engrave on his own skin. The following image shows the tattoo located on his right arm:
 
-<img src="Tatuaje_CC.jpeg" alt="Tattoo Force Diagram" width="400"/>
+<img src="Tatuaje_CC.jpeg" alt="Tattoo Force Diagram" width="200"/>
 
 As observed, this is not a decorative element. Its rough and un-stylized execution is characteristic of prison tattoos, reflecting an environment of psychological coercion. The design constitutes a **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
 
