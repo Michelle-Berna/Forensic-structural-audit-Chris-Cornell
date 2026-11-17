@@ -130,8 +130,7 @@ For the construction of the sentiment trajectory graph (Appendix A), a Natural L
     *   The sentiment score per song was calculated using the formula: `(Positive Words - Negative Words) / Total Emotional Words`.
     *   The result was normalized on a scale from -1 (completely negative) to +1 (completely positive), with a neutral baseline at 0.0.
 5.  **Temporal Aggregation (The Graph):** Finally, the sentiment scores for each song were grouped by their publication year. The arithmetic mean of sentiment was calculated for each year, generating the visual trajectory presented in Appendix A.
-6.  ---
-
+   
 ### Final Reflection
 
 Ultimately, this case reveals an unavoidable systemic insight: **mental health constitutes the critical infrastructure upon which the entire human system operates.** An individual can project full external functionality and technical excellence while their internal emotional damping capacity is at its absolute limit. Treating surface symptoms in isolation without addressing the root cause of psychological fatigue is equivalent to patching a structure without reinforcing its foundations. Prevention, early detection, and the comprehensive management of mental health must be established as the foundational pillar of any healthcare system.
