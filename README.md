@@ -62,7 +62,7 @@ As observed, this is not a decorative element. Its rough and un-stylized executi
 
 *   **The Crown (Top):** Represents the restrictive vertical load. The constant and relentless pressure (the environment, the marital restriction).
 *   **The Diamond (Center):** The inorganic core. Highly compressed carbon; it represents the subject resisting tension without breaking.
-*   **The Vector Γ (Gamma) - Left:** In solid mechanics, Gamma represents the **fracture energy** or a material's capacity to absorb energy and deform before breaking (damping). In the subject, it was his resilience: music, isolation, and the use of drugs to dissipate tension. It allowed him to stretch the system's life cycle.
+*   **The Vector Γ (Gamma) - Left:** In solid mechanics, Gamma represents the **fracture energy** or a material's capacity to absorb energy and deform before breaking (damping). In the subject, it was his resilience: music, isolation, and others to dissipate tension. It allowed him to stretch the system's life cycle.
 *   **The Vector K (Kappa) - Right:** In materials science, Kappa symbolizes **fracture toughness** or direct collision load. It represents the external agent seeking the yield point: acute stress, exhaustion, and the triggering phone call.
 *   **The Lower Ribbon (ΓΙΑ ΠΑΝΤΑ - "Forever"):** The temporal axis. It indicates that this force structure is not a passing event, but a sentence of material fatigue sustained over time.
 
