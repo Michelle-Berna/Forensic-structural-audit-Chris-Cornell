@@ -11,9 +11,9 @@
 
 This repository is not a tabloid article, nor is it a conspiracy theory. It is a **technical audit** that applies engineering logic to analyze the tragic death of Chris Cornell.
 
-When he passed away in 2017, the official narrative blamed a pill (Ativan) that supposedly caused a psychotic break. However, by analyzing the physical evidence, the data from his lyrics, and the timeline of his life, the evidence points to something far more complex: **a planned suicide, executed with full consciousness, after years of accumulated emotional fatigue.**
+When he passed away in 2017, the official narrative blamed a pill (Ativan) that supposedly caused a psychotic break. However, by analyzing the physical evidence, the data from his lyrics of audiovisual productions, and the timeline of his life, the evidence points to something far more complex: **a planned suicide, executed with full consciousness, after years of accumulated emotional fatigue.**
 
-This repository contains the technical report, the data extracted from his complete creative corpus, and the programming code (R) used to generate the graphs.
+This repository contains the technical report, the data extracted from his lyrics audiovisual productions, and the programming code (R) used to generate the graphs.
 
 ---
 
@@ -29,7 +29,7 @@ The root cause of the collapse is attributed to the **cumulative fatigue of emot
 
 *   **Forensic Failure Mechanics:** Exhaustive analysis of the SASPTE construction and the time of unconsciousness.
 *   **Semiotics and Technical-Artistic Analysis:** Decoding of the right-arm tattoo as a free-body diagram conceptual model.
-*   **Trajectory Analysis (Big Data):** Interpretation of the sentiment graph based on the **lyrics of the complete creative corpus** (Soundgarden, Temple of the Dog, Audioslave, and solo work, 1989-2015), identifying the critical point (2006) and analyzing the derivatives.
+*   **Trajectory Analysis (Big Data):** Interpretation of the sentiment graph based on the **lyrics of audiovisual-productions** (Soundgarden, Temple of the Dog, Audioslave, and solo work, 1989-2015), identifying the critical point (2006) and analyzing the derivatives.
 *   **Theory of Constraints (TOC):** Evaluation of environmental and relational constraints as operational stress variables.
 *   **Behavioral and Record Analysis:** Evaluation of family dynamics and memory transfer.
 
