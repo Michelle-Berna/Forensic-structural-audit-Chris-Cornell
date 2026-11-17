@@ -125,7 +125,7 @@ Ultimately, this case reveals an unavoidable systemic insight: **mental health c
 
 ## Appendix B: Sentiment Analysis Methodology (NLP)
 
-The choice of data corpus for this analysis is not arbitrary. The subject expressed on multiple occasions his frustration with the music video creation process, noting that he worked with directors to make them understand his vision, but "it just never seemed to work, ever" (Chicago Tribune, 2017). This dissatisfaction led him to take progressive creative control, devising the concepts for his videos himself. Therefore, analyzing the sentiment of his **song lyrics**—rather than third-party audiovisual productions—isolates the pure, unfiltered emotional output that the subject consciously authored.
+The choice of data corpus for this analysis is not arbitrary. The subject expressed on multiple occasions his frustration with the music video creation process, noting that he worked with directors to make them understand his vision, but "it just never seemed to work, ever" (Chicago Tribune, 2017). This dissatisfaction led him to take progressive creative control, devising the concepts for his videos himself. Therefore, analyzing the sentiment of his **song lyrics related to audiovisual works**—rather than third-party audiovisual productions—isolates the pure, unfiltered emotional output that the subject consciously authored.
 
 For the construction of the sentiment trajectory graph (Appendix A), a Natural Language Processing (NLP) approach was used, applied exclusively to the **lyrics of the official songs published up to 2017 (including Soundgarden, Temple of the Dog, Audioslave, and solo work)**. The process was executed using the R programming language, following these methodological steps:
 
