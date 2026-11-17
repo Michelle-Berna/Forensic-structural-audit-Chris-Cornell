@@ -113,7 +113,7 @@ Ultimately, this case reveals an unavoidable systemic insight: **mental health c
 
 ## Appendix A: Sentiment Trajectory Graph
 
-<img src="GrafoOA.jpeg" alt="Sentiment Trajectory" width="400"/>
+<img src="GrafoOA.jpeg" alt="Sentiment Trajectory" width="600"/>
 
 *Figure 1. Sentiment trajectory of Chris Cornell's lyrics (1989-2015). Source: Own elaboration using R and Bing Lexicon.*
 
