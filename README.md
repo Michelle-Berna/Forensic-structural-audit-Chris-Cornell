@@ -1,7 +1,3 @@
-Aquí tienes el informe completo con todas las correcciones aplicadas. He mantenido el tono forense y técnico, y he ajustado las referencias al corpus, la metodología NLP, la línea temporal y las afirmaciones especulativas para que el documento sea impecable.
-
----
-
 # Forensic & Behavioral Audit: The Chris Cornell Case (1964-2017)
 
 **Author:** Michelle Berna (Industrial Civil Engineer)  
