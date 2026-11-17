@@ -92,8 +92,7 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## 7. Analysis of the Collapse Scene (May 17, 2017)
 
-*   **The Instrumental Use of the Drug:** The Lorazepam level in his blood was 200 ng/mL. This is below the lethal threshold (300 ng/mL) but four times above the standard therapeutic range (50 ng/mL). Given his body mass and prior tolerance, this specific dose did not induce confusion; it functioned as a panic suppressor, allowing the subject to maintain the executive cognition necessary to execute the SASPTE. He used the drug not to overdose, but to achieve the precision required for the mechanism.
-*   **The Triggering Call (Kappa):** The telephone communication with the second wife, characterized by interrogation and behavioral control, acted as the direct collision load vector that exceeded the material's resistance.
+*   **The Instrumental Use of the Drug:** The official toxicology report recorded a lorazepam (Ativan) concentration of 41 ng/mL. This value is at the upper limit or just within the low end of the standard therapeutic range (typically 50–240 ng/mL) for a patient under treatment, and it is far below the 200 ng/mL figure cited in alternative reports. At this level, the drug did not induce confusion or impair executive cognition. The medical examiner explicitly concluded that the drugs found in his system "did not contribute to the cause of death" . Therefore, the subject retained the full cognitive capacity necessary to design and execute the SASPTE. The drug was not the trigger; it was, at most, a background variable in a system already exhausted by cumulative emotional fatigue.
 
 ---
 
