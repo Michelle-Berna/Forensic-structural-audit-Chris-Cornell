@@ -112,8 +112,7 @@ Ultimately, this case reveals an unavoidable systemic insight: **mental health c
 ---
 
 ## Appendix A: Sentiment Trajectory Graph
-
-![Sentiment Trajectory](Análisis_Sentimientos_Obras_Audiovisuales_CC.png)
+<img src="Análisis_Sentimientos_Obras_Audiovisuales_CC.png" alt="Tattoo Force Diagram" width="200"/>
 
 *Figure 1. Sentiment trajectory of Chris Cornell's lyrics (1989-2015). Source: Own elaboration using R and Bing Lexicon.*
 
