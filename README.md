@@ -27,7 +27,7 @@ The root cause of the collapse is attributed to the **cumulative fatigue of emot
 
 ## 2. Methodology and Analysis Tools
 
-*   **Forensic Failure Mechanics:** Exhaustive analysis of the SASPTE construction and the time of unconsciousness.
+*   **Forensic Failure Mechanics:** Exhaustive analysis of the SASPTE construction.
 *   **Semiotics and Technical-Artistic Analysis:** Decoding of the right-arm tattoo as a free-body diagram conceptual model.
 *   **Trajectory Analysis (Big Data):** Interpretation of the sentiment graph based on the **lyrics of audiovisual productions** (Soundgarden, Temple of the Dog, Audioslave, and solo work, 1989-2015), identifying the critical point (2006) and analyzing the derivatives.
 *   **Theory of Constraints (TOC):** Evaluation of environmental and relational constraints as operational stress variables.
@@ -58,7 +58,7 @@ To understand the structural tension the subject was under, we must look at the 
 
 <img src="Tatuaje_CC.jpeg" alt="Tattoo Force Diagram" width="200"/>
 
-As observed, this is not a decorative element. Its execution reflects an environment of intense psychological pressure. The design constitutes a conceptual **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
+As observed, this is not a decorative element. Its rough execution, lack of aesthetic refinement, and inorganic semantic field are characteristic of a **prison tattoo**, reflecting an environment of intense psychological pressure and confinement. The design constitutes a conceptual **Free Body Diagram**, used in engineering to calculate the tensions of a structure.
 
 *   **The Crown (Top):** Represents the restrictive vertical load. The constant and relentless pressure of the external environment.
 *   **The Diamond (Center):** The inorganic core. Highly compressed carbon; it represents the subject resisting tension without breaking.
@@ -66,7 +66,7 @@ As observed, this is not a decorative element. Its execution reflects an environ
 *   **The Vector K (Kappa) - Right:** In materials science, Kappa symbolizes **fracture toughness** or direct collision load. It represents the external agent seeking the yield point: acute stress, exhaustion, and triggering factors.
 *   **The Lower Ribbon (ΓΙΑ ΠΑΝΤΑ - "Forever"):** The temporal axis. It indicates that this force structure is not a passing event, but a sentence of material fatigue sustained over time.
 
-**Technical Interpretation:** The tattoo served as a symbolic representation of the subject's structural resistance. By mapping the vertical load (Crown), the damping capacity (Γ), and the destructive load (K) on an inorganic core, it reflects an internal model of his system's operational limits.
+**Technical Interpretation:** The tattoo served as a symbolic representation of the subject's structural resistance—functioning as a **time clock measuring his sentence**. By mapping the vertical load (Crown), the damping capacity ($\Gamma$), and the destructive load ($K$) on an inorganic core, it reflects an internal model of his system's operational limits and the remaining time before failure.
 
 ---
 
@@ -92,7 +92,7 @@ To understand the evolution of the system, it is essential to differentiate the 
 
 ## 7. Analysis of the Collapse Scene (May 17, 2017)
 
-*   **The Therapeutic Role of the Drug:** The official toxicology report recorded a lorazepam (Ativan) concentration of 41 ng/mL. This value is within the standard therapeutic range for a patient under treatment, far below alternative exaggerated claims. At this level, the drug did not induce confusion or impair executive cognition. The medical examiner explicitly concluded that the drugs found in his system "did not contribute to the cause of death". Therefore, the subject retained the full cognitive capacity necessary to design and execute the SASPTE. The drug was not the trigger; it was a background variable in a system already exhausted by cumulative emotional fatigue.
+ **The Therapeutic Role of the Drug:** The official toxicology report recorded a lorazepam (Ativan) concentration of 41 ng/mL. This value is within the standard therapeutic range for a patient under treatment, far below alternative exaggerated claims. At this level, the drug did not induce confusion or impair executive cognition. The medical examiner explicitly concluded that the drugs found in his system "did not contribute to the cause of death". Therefore, the subject retained the full cognitive capacity necessary to design and execute the SASPTE. The drug was not the trigger; it was a background variable in a system already exhausted by cumulative emotional fatigue.
 
 ---
 
@@ -125,7 +125,7 @@ Ultimately, this case reveals an unavoidable systemic insight: **mental health c
 
 ## Appendix B: Sentiment Analysis Methodology (NLP)
 
-The choice of data corpus for this analysis is not arbitrary. The subject expressed on multiple occasions his frustration with the music video creation process, noting that he worked with directors to make them understand his vision, but "it just never seemed to work, ever" (Chicago Tribune, 2017). This dissatisfaction led him to take progressive creative control, devising the concepts for his videos himself. Therefore, analyzing the sentiment of his **song lyrics related to audiovisual works**—rather than third-party audiovisual productions—isolates the pure, unfiltered emotional output that the subject consciously authored.
+The choice of data corpus for this analysis is not arbitrary. The subject expressed on multiple occasions his frustration with the music video creation process, noting that he worked with directors to make them understand his vision, but "it just never seemed to work, ever" (Chicago Tribune, 2017). This dissatisfaction led him to take progressive creative control, devising the concepts for his videos himself—most notably with *"Nearly Forgot My Broken Heart,"* where he conceived and authored the entire narrative concept. Therefore, analyzing the sentiment of his **song lyrics related to audiovisual works**—rather than third-party audiovisual productions—isolates the pure, unfiltered emotional output that the subject consciously authored.
 
 For the construction of the sentiment trajectory graph (Appendix A), a Natural Language Processing (NLP) approach was used, applied exclusively to the **lyrics of the official songs published up to 2017 (including Soundgarden, Temple of the Dog, Audioslave, and solo work)**. The process was executed using the R programming language, following these methodological steps:
 
